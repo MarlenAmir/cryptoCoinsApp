@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:cryptocoins_app/theme/crypto_currencies_list_app.dart';
+import 'package:cryptocoins_app/crypto_currencies_list_app.dart';
 
 
 void main() {
